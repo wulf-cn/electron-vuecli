@@ -1,5 +1,15 @@
 # ele
 
+```test
+
+vueCli + electron12.0.0 
+
+调用C# DLL
+
+electron-updater在线更新
+
+```
+
 ## Project setup
 
 ```
